@@ -6,7 +6,9 @@
   "tag" : "Decision Tree",
   "posts" : [
       
-      "./MachineLearning_DT.html"
+      "./MachineLearning_DT.html",
+      
+      "./ML-summary-multipleLinearRegression.html"
       
     ]
   } ,
@@ -36,7 +38,9 @@
   "tag" : "linear regression",
   "posts" : [
       
-      "./MachineLearning_Simple.html"
+      "./MachineLearning_Simple.html",
+      
+      "./ML-summary-simpleRegression.html"
       
     ]
   } ,
@@ -60,7 +64,11 @@
       
       "./MachineLearning_Logistic.html",
       
-      "./MachineLearning_DT.html"
+      "./MachineLearning_DT.html",
+      
+      "./ML-summary-multipleLinearRegression.html",
+      
+      "./ML-summary-simpleRegression.html"
       
     ]
   } ,
@@ -75,6 +83,18 @@
       "./MachineLearning_Logistic.html",
       
       "./MachineLearning_DT.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "study_theory",
+  "posts" : [
+      
+      "./ML-summary-multipleLinearRegression.html",
+      
+      "./ML-summary-simpleRegression.html"
       
     ]
   } ,
