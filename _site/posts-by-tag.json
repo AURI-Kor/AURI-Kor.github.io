@@ -43,10 +43,22 @@
     
       
   {
+  "tag" : "logistic regression",
+  "posts" : [
+      
+      "./MachineLearning_Logistic.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "machine learning",
   "posts" : [
       
       "./MachineLearning_Simple.html",
+      
+      "./MachineLearning_Logistic.html",
       
       "./MachineLearning_DT.html"
       
@@ -59,6 +71,8 @@
   "posts" : [
       
       "./MachineLearning_Simple.html",
+      
+      "./MachineLearning_Logistic.html",
       
       "./MachineLearning_DT.html"
       
