@@ -8,6 +8,7 @@ img: forpost/4.jfif
 tags: [machine learning, study_theory, logistic regression]
 author: Taewon Kim
 description: "ML summary - logistic regression"
+use_math: true
 ---
 
 
@@ -24,7 +25,7 @@ E.g
 $$ y \in \{ 0, 1 \}$$
 
 <figure>
-    <img src="./logistic/lo1.png" title="binary classification">    
+    <img src="/assets/img/in_post/logistic/lo1.png" title="binary classification">    
     <figcaption>binary classification for tumors</figcaption>
 </figure>
 
@@ -33,7 +34,7 @@ $$ if h_\theta(x) \ge 0.5, \quad predict  \quad y = 1\\ if h_\theta(x) \le 0.5, 
 target variable이 0 또는 1로 표현이 된다면 위와 같은 linear regression을 사용할 수도 있다. 모델은 예측과 관찰의 error가 최소치가 되도록 설계해야 한다.
 
 <figure>
-    <img src="./logistic/lo2.png" title="outlier classification">    
+    <img src="/assets/img/in_post/logistic/lo2.png" title="outlier classification">    
     <figcaption>result of outlier</figcaption>
 </figure>
 
@@ -43,7 +44,7 @@ Training data가 위와는 다르게 종양의 크기가 극명하게 큰 환자
 
 선형식으로 이를 해결할 수 없기 때문에 우리는 Logistic regression을 도입할 수 있다.
 <figure>
-    <img src="./logistic/lo3.png" title="logistic classification">    
+    <img src="/assets/img/in_post/logistic/lo3.png" title="logistic classification">    
     <figcaption>logistic regression</figcaption>
 </figure>
 
@@ -61,7 +62,7 @@ $$h_{\theta} (x) = g(\theta_0 +\theta _1 x _1 +\theta _2 x _2 )$$
 E.g.
 $$if \quad -3+x_1 + x_2 \ge 0, \quad y = 1$$
 <figure>
-    <img src="./logistic/lo4.png" title="logistic classification">    
+    <img src="/assets/img/in_post/logistic/lo4.png" title="logistic classification">    
     <figcaption>Decision boundary</figcaption>
 </figure>
 
@@ -72,7 +73,7 @@ $$if \quad -3+x_1 + x_2 \ge 0, \quad y = 1$$
 loss는 0에 가까울 수록 좋다고 볼 수 있다. 하지만 이같은 단순한 loss function은 사용되지 않는다. 이는 분류 확률을 고려하기 때문이다. 95%의 확률로 분류된 것과 55%의 확률로 분류된 것이 다르기 때문에 label을 정확히 예측할 수 있도록 분류 확률을 높이는 방식으로 loss를 설계할 필요가 있다.
 
 <figure>
-    <img src="./logistic/lo5.png" title="logistic classification">    
+    <img src="/assets/img/in_post/logistic/lo5.png" title="logistic classification">    
     <figcaption>cost function</figcaption>
 </figure>
 
@@ -96,7 +97,7 @@ $$ {dJ(a, b) \over da } = -{e^{-z}\over1+e^{-z}} = - (1 - {1 \over1+e^{-z}})$$
 
 binary classification 보다 좀 더 세분화된 target label이 있을 때,
 <figure>
-    <img src="./logistic/lo6.png" title="logistic classification">    
+    <img src="/assets/img/in_post/logistic/lo6.png" title="logistic classification">    
     <figcaption>binary classification VS multiclass classification</figcaption>
 </figure>
 
@@ -105,7 +106,7 @@ one or All(rest)
 각각의 class에 대해 대응하는 각각의 classification model을 반드는 모델. 여러 카테고리 중 하나만을 positive로 가정하여 학습하고 모든 i번째 카테고리에 대해 학습을 한다.
 
 <figure>
-    <img src="./logistic/lo7.png" title="logistic classification">    
+    <img src="/assets/img/in_post/logistic/lo7.png" title="logistic classification">    
     <figcaption>How to classify multiclass labels [One or All]</figcaption>
 </figure>
 
