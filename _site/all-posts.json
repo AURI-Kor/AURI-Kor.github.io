@@ -1,6 +1,10 @@
 {
   "posts" : [
     
+    "./First.html",
+    
+    "./ML-summary-Logistic-Regression.html",
+    
     "./MachineLearning_Simple.html",
     
     "./MachineLearning_Logistic.html",
@@ -9,9 +13,7 @@
     
     "./ML-summary-multipleLinearRegression.html",
     
-    "./ML-summary-simpleRegression.html",
-    
-    "./starting-the-adventure.html"
+    "./ML-summary-simpleRegression.html"
     
   ]
 }

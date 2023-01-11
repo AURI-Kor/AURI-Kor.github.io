@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "ML summary - logistic regression"
-date: 2021-03-24
+date: 2023-01-11
 img: forpost/4.jfif
 tags: [machine learning, study_theory, logistic regression]
 author: Taewon Kim

@@ -15,20 +15,10 @@
     
       
   {
-  "tag" : "general blogging",
+  "tag" : "blog",
   "posts" : [
       
-      "./starting-the-adventure.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "life",
-  "posts" : [
-      
-      "./starting-the-adventure.html"
+      "./First.html"
       
     ]
   } ,
@@ -50,6 +40,8 @@
   "tag" : "logistic regression",
   "posts" : [
       
+      "./ML-summary-Logistic-Regression.html",
+      
       "./MachineLearning_Logistic.html"
       
     ]
@@ -59,6 +51,8 @@
   {
   "tag" : "machine learning",
   "posts" : [
+      
+      "./ML-summary-Logistic-Regression.html",
       
       "./MachineLearning_Simple.html",
       
@@ -92,19 +86,11 @@
   "tag" : "study_theory",
   "posts" : [
       
+      "./ML-summary-Logistic-Regression.html",
+      
       "./ML-summary-multipleLinearRegression.html",
       
       "./ML-summary-simpleRegression.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "thoughts",
-  "posts" : [
-      
-      "./starting-the-adventure.html"
       
     ]
   } 
