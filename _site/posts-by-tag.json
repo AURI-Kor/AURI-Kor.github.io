@@ -44,6 +44,8 @@
       
       "./Machine-Learning-Perceptron.html",
       
+      "./Machine-Learning-Model-Evaluation.html",
+      
       "./ML-summary-Logistic-Regression.html",
       
       "./MachineLearning_Simple.html",
@@ -55,6 +57,16 @@
       "./ML-summary-multipleLinearRegression.html",
       
       "./ML-summary-simpleRegression.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "model evaluation",
+  "posts" : [
+      
+      "./Machine-Learning-Model-Evaluation.html"
       
     ]
   } ,
@@ -89,6 +101,8 @@
   "posts" : [
       
       "./Machine-Learning-Perceptron.html",
+      
+      "./Machine-Learning-Model-Evaluation.html",
       
       "./ML-summary-Logistic-Regression.html",
       
