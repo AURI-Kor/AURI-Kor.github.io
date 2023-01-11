@@ -15,16 +15,6 @@
     
       
   {
-  "tag" : "blog",
-  "posts" : [
-      
-      "./First.html"
-      
-    ]
-  } ,
-    
-      
-  {
   "tag" : "linear regression",
   "posts" : [
       
@@ -52,6 +42,8 @@
   "tag" : "machine learning",
   "posts" : [
       
+      "./Machine-Learning-Perceptron.html",
+      
       "./ML-summary-Logistic-Regression.html",
       
       "./MachineLearning_Simple.html",
@@ -63,6 +55,16 @@
       "./ML-summary-multipleLinearRegression.html",
       
       "./ML-summary-simpleRegression.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "perceptron",
+  "posts" : [
+      
+      "./Machine-Learning-Perceptron.html"
       
     ]
   } ,
@@ -85,6 +87,8 @@
   {
   "tag" : "study_theory",
   "posts" : [
+      
+      "./Machine-Learning-Perceptron.html",
       
       "./ML-summary-Logistic-Regression.html",
       
