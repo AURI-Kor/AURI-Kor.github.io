@@ -15,6 +15,16 @@
     
       
   {
+  "tag" : "Ensemble model",
+  "posts" : [
+      
+      "./Ensemble-model.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "linear regression",
   "posts" : [
       
@@ -46,7 +56,11 @@
       
       "./Machine-Learning-Model-Evaluation.html",
       
+      "./Machine-Learning-KNN.html",
+      
       "./ML-summary-Logistic-Regression.html",
+      
+      "./Ensemble-model.html",
       
       "./MachineLearning_Simple.html",
       
@@ -76,7 +90,9 @@
   "tag" : "perceptron",
   "posts" : [
       
-      "./Machine-Learning-Perceptron.html"
+      "./Machine-Learning-Perceptron.html",
+      
+      "./Machine-Learning-KNN.html"
       
     ]
   } ,
@@ -85,6 +101,14 @@
   {
   "tag" : "study_model",
   "posts" : [
+      
+      "./Machine-Learning-Perceptron.html",
+      
+      "./Machine-Learning-Model-Evaluation.html",
+      
+      "./Machine-Learning-KNN.html",
+      
+      "./Ensemble-model.html",
       
       "./MachineLearning_Simple.html",
       
@@ -99,10 +123,6 @@
   {
   "tag" : "study_theory",
   "posts" : [
-      
-      "./Machine-Learning-Perceptron.html",
-      
-      "./Machine-Learning-Model-Evaluation.html",
       
       "./ML-summary-Logistic-Regression.html",
       
