@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "ML summary - simple regression"
 date: 2021-03-24
-img: forpost/2.jfif
+img: forpost/0.jfif
 tags: [machine learning, study_theory, linear regression]
 author: Taewon Kim
 description: "ML summary - simple regression"

@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "ML summary - Multiple Variable Linear regression"
 date: 2021-03-24
-img: forpost/2.jfif
+img: forpost/5.jfif
 tags: [machine learning, study_theory, Decision Tree]
 author: Taewon Kim
 description: "ML summary - Multiple Variable Linear regression"
