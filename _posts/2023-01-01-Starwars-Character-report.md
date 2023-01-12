@@ -5,12 +5,15 @@ show_date: true
 title: "Starwars Character Report"
 date: 2023-01-11
 img: forpost/starwars.jpg
-tags: [machine learning, study_model, perceptron]
+tags: [machine learning, data analysis, report]
 author: Taewon Kim
 description: "Starwars Character Report"
 ---
 
-# Starwars Character Report
+<figure>
+  <img src="/assets/img/in_post/starwars/starwars.jpg" title="I">    
+  <figcaption></figcaption>
+</figure>
 
 ## Starwars Data
 
@@ -19,7 +22,7 @@ Starwars API의 데이터는 스타워즈에 등장하는 캐릭터들의 특징
 
 ## Purpose & Contents
 
-해당 Report는 스타워즈 캐릭터의 특징에 대한 흥미에 의해 제작되었습니다. 분석 내용은 아래와 같습니다.
+해당 Report는 스타워즈 캐릭터에 대한 분석입니다. 분석 내용은 아래와 같습니다.
 
 - 스타원즈 캐릭터 성별 비율
 - 성별에 따른 캐릭터 신장의 분포
@@ -58,19 +61,19 @@ Starwars API의 데이터는 스타워즈에 등장하는 캐릭터들의 특징
 * 성별에 따른 캐릭터 신장의 분포
   
  <figure>
-    <img src="/assets/img/in_post//starwars/sw_g2.png" title="Height">    
+    <img src="/assets/img/in_post/starwars/sw_g2.png" title="Height">    
     <figcaption>Height distribution</figcaption>
 </figure>
   : 남성 캐릭터의 키가 대체로 여성보다 크며, 로봇은 그보다 키가 작다.
 * 가장 무거운 캐릭터와 가장 가벼운 캐릭터
 <figure>
-    <img src="/assets/img/in_post//starwars/sw_g3.png" title="High-weight">    
+    <img src="/assets/img/in_post/starwars/sw_g3.png" title="High-weight">    
     <figcaption>High-weight races</figcaption>
 </figure>
 
     :   몸무게 상위 10개 종족은 ['Hutt'], ['Kaleesh'], ['Wookiee'], ['Trandoshan'], ['Besalisk'], ['Neimodian'], ['Nautolan'], ['Mon Calamari'], ['Cerean'], ['pau'an'] 이다
 <figure>
-    <img src="/assets/img/in_post//starwars/sw_g4.png" title="Weight">    
+    <img src="/assets/img/in_post/starwars/sw_g4.png" title="Weight">    
     <figcaption>Weight Graph by Race</figcaption>
 </figure>
 
@@ -83,7 +86,7 @@ Starwars API의 데이터는 스타워즈에 등장하는 캐릭터들의 특징
 * 스타워즈 캐릭터의 키와 몸무게는 상관관계
   
   <figure>
-    <img src="./starwars/sw_g5.png" title="correlation">    
+    <img src="/assets/img/in_post/starwars/sw_g5.png" title="correlation">    
     <figcaption>Weight-Height correlation</figcaption>
     </figure>
   : 키와 몸무게는 일반적으로 상관관계를 가진다. 

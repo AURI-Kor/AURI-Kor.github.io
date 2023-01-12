@@ -25,6 +25,18 @@
     
       
   {
+  "tag" : "data analysis",
+  "posts" : [
+      
+      "./LAkers-Report.html",
+      
+      "./Starwars-Character-report.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "linear regression",
   "posts" : [
       
@@ -62,6 +74,8 @@
       
       "./Ensemble-model.html",
       
+      "./LAkers-Report.html",
+      
       "./Starwars-Character-report.html",
       
       "./MachineLearning_Simple.html",
@@ -94,7 +108,17 @@
       
       "./Machine-Learning-Perceptron.html",
       
-      "./Machine-Learning-KNN.html",
+      "./Machine-Learning-KNN.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "report",
+  "posts" : [
+      
+      "./LAkers-Report.html",
       
       "./Starwars-Character-report.html"
       
@@ -113,8 +137,6 @@
       "./Machine-Learning-KNN.html",
       
       "./Ensemble-model.html",
-      
-      "./Starwars-Character-report.html",
       
       "./MachineLearning_Simple.html",
       
