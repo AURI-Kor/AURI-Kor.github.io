@@ -62,6 +62,8 @@
       
       "./Ensemble-model.html",
       
+      "./Starwars-Character-report.html",
+      
       "./MachineLearning_Simple.html",
       
       "./MachineLearning_Logistic.html",
@@ -92,7 +94,9 @@
       
       "./Machine-Learning-Perceptron.html",
       
-      "./Machine-Learning-KNN.html"
+      "./Machine-Learning-KNN.html",
+      
+      "./Starwars-Character-report.html"
       
     ]
   } ,
@@ -109,6 +113,8 @@
       "./Machine-Learning-KNN.html",
       
       "./Ensemble-model.html",
+      
+      "./Starwars-Character-report.html",
       
       "./MachineLearning_Simple.html",
       
