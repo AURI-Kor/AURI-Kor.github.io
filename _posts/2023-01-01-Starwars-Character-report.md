@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Starwars Character Report"
 date: 2023-01-11
-img: forpost/10.jfif
+img: forpost/starwars.jpg
 tags: [machine learning, study_model, perceptron]
 author: Taewon Kim
 description: "Starwars Character Report"

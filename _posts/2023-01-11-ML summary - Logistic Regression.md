@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "ML summary - logistic regression"
 date: 2023-01-11
-img: forpost/starwars.jpg
+img: forpost/4.jfif
 tags: [machine learning, study_theory, logistic regression]
 author: Taewon Kim
 description: "ML summary - logistic regression"
