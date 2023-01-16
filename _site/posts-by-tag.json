@@ -28,6 +28,10 @@
   "tag" : "data analysis",
   "posts" : [
       
+      "./INGV-Volcanic-Eruption-Prediction.html",
+      
+      "./TPS-MAR-2021.html",
+      
       "./LAkers-Report.html",
       
       "./Starwars-Character-report.html"
@@ -63,6 +67,10 @@
   {
   "tag" : "machine learning",
   "posts" : [
+      
+      "./INGV-Volcanic-Eruption-Prediction.html",
+      
+      "./TPS-MAR-2021.html",
       
       "./Machine-Learning-Perceptron.html",
       
@@ -117,6 +125,10 @@
   {
   "tag" : "report",
   "posts" : [
+      
+      "./INGV-Volcanic-Eruption-Prediction.html",
+      
+      "./TPS-MAR-2021.html",
       
       "./LAkers-Report.html",
       
