@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "INGV - Volcanic Eruption Prediction Report"
 date: 2023-01-11
-img: forpost/volcano.jfif
+img: forpost/volcano.jpg
 tags: [machine learning, report, data analysis]
 author: Taewon Kim
 description: "INGV - Volcanic Eruption Prediction Report"
