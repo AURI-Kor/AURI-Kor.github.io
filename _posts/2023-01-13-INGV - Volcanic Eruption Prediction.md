@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "INGV - Volcanic Eruption Prediction Report"
-date: 2023-01-11
+date: 2023-01-13
 img: forpost/volcano.jpg
 tags: [machine learning, report, data analysis]
 author: Taewon Kim
